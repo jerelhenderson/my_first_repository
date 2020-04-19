@@ -1,2 +1,8 @@
-This is the first time I've used git in the terminal!# my_first_repository
-# my_first_repository
+# Holberton School - My First Repository
+
+## Directory List
+| Name	  | Description						     |
+| --------------- |:--------------------------------------------------------:|
+| bash  | executable bash scripts |
+| c 	| C extension file |
+| js	| JavaScript extension files |
